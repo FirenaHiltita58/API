@@ -1,0 +1,64 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "no": 1,
+      "name": "Gangguan obsesif kompulsif (OCD)",
+      "penjelasan": "OCD adalah munculnya pikiran yang membuat seseorang jadi sangat terobsesi akan suatu hal dan akan melakukannya berulang-ulang kali (kompulsif). Bila tidak dilakukan, orang dengan OCD akan merasa sangat cemas tak terkendali."  
+    },
+     {
+      "id": 2,
+      "no": 2,
+      "name": "Post-traumatic stress disorder (PTSD)",
+      "penjelasan": "PTSD atau gangguan stres pascatrauma umumnya terjadi setelah seseorang mengalami kejadian yang mengerikan, mengancam nyawa, membahayakan keselamatan, dan kejadian ekstrem lainnya."  
+    },
+    {
+      "id": 3,
+      "no": 3,
+      "name": "Skizofrenia",
+      "penjelasan": "Skizofrenia termasuk gangguan psikosis yang disebabkan oleh kelainan ataugangguan kimiawi dalam otak. Hal ini menyebabkan gangguan pada fungsi sistemik dan impuls saraf sehingga fungsi otak terganggu dalam mengolah informasi dalam otak."  
+    },
+    {
+      "id": 4,
+      "no": 4,
+      "name": "Self Injury",
+      "penjelasan": "sPenderita dengan gangguan self injury cenderung ingin melukai dirinya sendiri dan dapat membahayakan nyawanya sendiri."  
+    },
+    {
+      "id": 5,
+      "no": 5,
+      "name": "Bulimia Nervosa",
+      "penjelasan": "Kondisi gangguan ini menyatakan seorang penderita yang makan sangat banyak namun kemudian secara sengaja dimuntahkan kembali."  
+    },
+    {
+      "id": 6,
+      "no": 6,
+      "name": "Bipolar",
+      "penjelasan": "Gangguan bipolar masuk dalam kategori gangguan mood dimana terjadi masalah pada otak yang menimbulkan kondisi abnormal."  
+    },
+    {
+      "id": 7,
+      "no": 7,
+      "name": "Narsisistik",
+      "penjelasan": "Seseorang yang sangat butuh dipuji dan kurang berempati kepada orang lain masuk dalam kriteria narsistik, dan mereka nampaknya memang cocok menjalani psikoterapi."  
+    },
+    {
+      "id": 8,
+      "no": 8,
+      "name": "Depresi",
+      "penjelasan": "Gangguan ini juga bisa memicu bunuh diri, yang menjadi penyebab jutaan kematian setiap tahunnya. ."  
+    },
+    {
+      "id": 9,
+      "no": 9,
+      "name": "Social Anxiety Disorder",
+      "penjelasan": "Social Anxiety Disorder atau gangguan kecemasan sosial adalah situasi di mana seorang individu merasa cemas ketika berhadapan orang banyak. "  
+    },
+    {
+      "id": 10,
+      "no": 10,
+      "name": "Eccedentesiast",
+      "penjelasan": "Orang yang  selalu tersenyum meski sebenarnya menangis bisa-bisa sebenarnya terkena gangguan psikologis ini"  
+    }
+  ]
+}
